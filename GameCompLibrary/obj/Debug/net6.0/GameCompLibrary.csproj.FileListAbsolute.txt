@@ -1,0 +1,11 @@
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\bin\Debug\net6.0\GameCompLibrary.deps.json
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\bin\Debug\net6.0\GameCompLibrary.dll
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\bin\Debug\net6.0\GameCompLibrary.pdb
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\GameCompLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\GameCompLibrary.AssemblyInfoInputs.cache
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\GameCompLibrary.AssemblyInfo.cs
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\GameCompLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\GameCompLibrary.dll
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\refint\GameCompLibrary.dll
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\GameCompLibrary.pdb
+C:\Users\aarro\source\repos\Week1DungeonCrawler\GameCompLibrary\obj\Debug\net6.0\ref\GameCompLibrary.dll

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "CaveOfEnviorments/1.0.0": {
+        "dependencies": {
+          "GameCompLibrary": "1.0.0"
+        },
         "runtime": {
           "CaveOfEnviorments.dll": {}
+        }
+      },
+      "GameCompLibrary/1.0.0": {
+        "runtime": {
+          "GameCompLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "CaveOfEnviorments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameCompLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
